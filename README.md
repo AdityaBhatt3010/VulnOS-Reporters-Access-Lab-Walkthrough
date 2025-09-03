@@ -5,6 +5,8 @@ That’s exactly what happened in this Vulnos Lab challenge. The journey? A **cl
 
 Here’s how it went down — raw, step-by-step, with every command and output that made the dominoes fall.
 
+**Lab Link: https://learn.vulnos.tech/lab/environment.html?id=68 <br/>**
+
 ![Cover](https://github.com/user-attachments/assets/6c1ddc0e-074a-4fed-856b-95bec57fbc04) <br/>
 
 ---
