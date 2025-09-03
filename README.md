@@ -197,7 +197,7 @@ Want to practice these skills? **Labs like these are gold mines** — no shortcu
 
 ---
 
-*Written by **Aditya Bhatt** — VAPT Specialist, Ethical Hacker & Cybersecurity Writer*
+*Written by **Aditya Bhatt** — VAPT Specialist, Ethical Hacker & Cybersecurity Writer* <br/>
 *Top 2% TryHackMe | CEH | Security+ | AWS | Red Team Specialist*
 
 ---
